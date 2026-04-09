@@ -1,0 +1,90 @@
+{
+  "id": "92519",
+  "name": "Curry Queen",
+  "uniqueName": "curry-queen-islington",
+  "address": {
+    "city": "London",
+    "firstLine": "1 Shenfield Street",
+    "postalCode": "N1 6SE",
+    "location": {
+      "type": "Point",
+      "coordinates": [-0.08, 51.531169]
+    }
+  },
+  "rating": {
+    "count": 2186,
+    "starRating": 5,
+    "userRating": null
+  },
+  "isNew": false,
+  "driveDistanceMeters": 2293,
+  "openingTimeLocal": "2026-04-07T16:00:00",
+  "deliveryOpeningTimeLocal": "2026-04-06T16:00:00",
+  "deliveryEtaMinutes": {
+    "rangeLower": 25,
+    "rangeUpper": 40
+  },
+  "isCollection": true,
+  "isDelivery": true,
+  "isOpenNowForCollection": true,
+  "isOpenNowForDelivery": true,
+  "isOpenNowForPreorder": false,
+  "isTemporarilyOffline": false,
+  "deliveryCost": 0,
+  "minimumDeliveryValue": 15,
+  "defaultDisplayRank": 0,
+  "isTemporaryBoost": false,
+  "isPremier": false,
+  "logoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/92519.gif",
+  "isTestRestaurant": false,
+  "deals": [
+    {
+      "description": "Save 40% • Spend £20",
+      "offerType": "Percent"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "name": "Indian",
+      "uniqueName": "indian"
+    },
+    {
+      "name": "Curry",
+      "uniqueName": "curry"
+    },
+    {
+      "name": "Halal",
+      "uniqueName": "halal"
+    },
+    {
+      "name": "Deals",
+      "uniqueName": "deals"
+    }
+  ],
+  "availability": {
+    "delivery": {
+      "isOpen": true,
+      "canPreOrder": false,
+      "isTemporarilyOffline": false,
+      "nextAvailability": {
+        "from": "2026-04-07T16:00:00"
+      },
+      "etaMinutes": {
+        "rangeLower": 25,
+        "rangeUpper": 40
+      }
+    },
+    "collection": {
+      "isOpen": true,
+      "canPreOrder": false,
+      "isTemporarilyOffline": false,
+      "nextAvailability": {
+        "from": "2026-04-07T16:00:00"
+      },
+      "etaMinutes": {
+        "approximate": 15
+      }
+    }
+  }
+}
